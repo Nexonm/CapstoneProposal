@@ -1,0 +1,2 @@
+# CapstoneProposal
+Use LIGHT theme!
